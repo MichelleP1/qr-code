@@ -4,7 +4,7 @@ body {
   align-items: center;
   box-sizing: border-box;
 
-  font-family: "Droid Sans", arial, serif;
+  font-family: "Outfit", sans-serif;
   height: 100vh;
   background-color: hsl(212, 45%, 89%);
 }
@@ -29,17 +29,18 @@ body {
   flex-direction: column;
 
   text-align: center;
-  margin: 10px;
+  margin: 20px;
 }
 
 .info-primary {
   font-size: 18px;
-  font-weight: 800;
+  font-weight: 700;
   margin-bottom: 15px;
 }
 
 .info-secondary {
-  font-size: 13px;
+  font-weight: 400;
+  font-size: 14px;
   opacity: 0.6;
 }
 
