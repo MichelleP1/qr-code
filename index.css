@@ -12,7 +12,7 @@ body {
 .container {
   align-items: center;
   width: 300px;
-  margin-top: 150px;
+  margin-top: 140px;
   padding: 15px;
   border-radius: 15px;
   background-color: hsl(0, 0%, 100%);
@@ -20,7 +20,7 @@ body {
 
 .qr-code img {
   width: 300px;
-  height: 300px;
+  height: 290px;
   border-radius: 15px;
 }
 
